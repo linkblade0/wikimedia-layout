@@ -32,14 +32,15 @@ html, body {
 
 .central {
   height: auto;
-  width: 100%;
-  margin-top: 50px;
+  width: 90%;
+  margin: 0 auto;
 }
 .weblink {
   float: left;
-  width: 25%;
-  height: 25%;
-  display: block;
+  width: 180px;
+  height: 180px;
+  display: inline-block;
+  line-height: 175px;
 }
 img {
   height: 135px;
